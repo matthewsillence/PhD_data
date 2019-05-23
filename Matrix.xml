@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Matrix.xsd" generated="2019-05-23T09:32:04">
+<Matrix>
+<ID>3</ID>
+<Identifier>Givry1</Identifier>
+<Location>Museo del Bargello, Florence</Location>
+<Collection_x002F_Accession_x0020_number>Inv. 620c</Collection_x002F_Accession_x0020_number>
+<Material>bronze</Material>
+<Surface>plain</Surface>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>complete</Condition_x003A__x0020_completeness>
+<Covering>none</Covering>
+<Notes>Dated 1533-1560.  Provenance: &apos;Firenze, col.. Carrand; al Bargello dal 1888&apos; (Muzzi, Tomasello,Tori, p. 14).</Notes>
+<MyImage>LonguyCDGBMmatrixA.jpg</MyImage>
+<Height>119</Height>
+<Width>77</Width>
+<Figure_x0020_number>8</Figure_x0020_number>
+</Matrix>
+<Matrix>
+<ID>1</ID>
+<Identifier>MediciI1</Identifier>
+<Location>Museo del Bargello, Florence</Location>
+<Collection_x002F_Accession_x0020_number>Inv. 7</Collection_x002F_Accession_x0020_number>
+<Material>bronze</Material>
+<Surface>gold</Surface>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>slight damage to edge</Condition_x003A__x0020_completeness>
+<Covering>none</Covering>
+<Notes>Dated 1517-1521.  Provenance &apos;Gargano Gargani; Firenze, Uffizi&apos; (Muzzi, Tomasello, Tori, p. 14).</Notes>
+<MyImage>MediciG2BMmatrixC.jpg</MyImage>
+<Height>109</Height>
+<Width>70</Width>
+<Figure_x0020_number>7</Figure_x0020_number>
+</Matrix>
+<Matrix>
+<ID>4</ID>
+<Identifier>Petrucci1</Identifier>
+<Location>Museo del Bargello, Florence</Location>
+<Collection_x002F_Accession_x0020_number>Inv. 617c</Collection_x002F_Accession_x0020_number>
+<Material>bronze</Material>
+<Surface>plain</Surface>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>clear</Condition_x003A__x0020_completeness>
+<Covering>none</Covering>
+<Notes>Dated 1511-1517.  Provenance: &apos;Firenze, coll. Carrand; al Bargello dal 1888&apos; (Muzzi, Tomasello, Tori, p. 22).</Notes>
+<MyImage>PetrucciA1BMmatrixA.jpg</MyImage>
+<Height>113</Height>
+<Width>69</Width>
+<Figure_x0020_number>71</Figure_x0020_number>
+</Matrix>
+<Matrix>
+<ID>7</ID>
+<Identifier>SalviatiG2</Identifier>
+<Location>Museo del Bargello, Florence</Location>
+<Collection_x002F_Accession_x0020_number>Inv. 1442</Collection_x002F_Accession_x0020_number>
+<Material>bronze</Material>
+<Surface>plain</Surface>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>clear</Condition_x003A__x0020_completeness>
+<Covering>none</Covering>
+<Notes>Dated 1518-1521.  Provenance: &apos;Coll. Angelo Papini, Firenze, Uffizi&apos; (Muzzi, Tomasello, Tori, p. 26).</Notes>
+<MyImage>SalviatiGBMmatrixA.jpg</MyImage>
+<Height>117</Height>
+<Width>72</Width>
+<Figure_x0020_number>79</Figure_x0020_number>
+</Matrix>
+<Matrix>
+<ID>2</ID>
+<Identifier>Valle1</Identifier>
+<Location>Ashmolean Museum, Oxford</Location>
+<Collection_x002F_Accession_x0020_number>Molinier, Berlin 981</Collection_x002F_Accession_x0020_number>
+<Material>bronze</Material>
+<Surface>gold</Surface>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>complete</Condition_x003A__x0020_completeness>
+<Covering>none</Covering>
+<Notes>Bronze seal matrix.</Notes>
+<MyImage>ValleAMmatrixB.jpg</MyImage>
+<Height>109</Height>
+<Width>72</Width>
+<Figure_x0020_number>83</Figure_x0020_number>
+</Matrix>
+</dataroot>

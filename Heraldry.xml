@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Heraldry.xsd" generated="2019-05-23T09:31:35">
+<Heraldry>
+<ID>45</ID>
+<Identifier>LanghamS1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>65</ID>
+<Identifier>Puy1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>62</ID>
+<Identifier>Pierre2</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>72</ID>
+<Identifier>Vergne1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>39</ID>
+<Identifier>Grimaldi1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>55</ID>
+<Identifier>Montalais1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Surround>structural</Surround>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>63</ID>
+<Identifier>PierreCosmedin1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>23</ID>
+<Identifier>Chanac1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>70</ID>
+<Identifier>Sortenac1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>79</ID>
+<Identifier>Borsano1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+</Heraldry>
+<Heraldry>
+<ID>3</ID>
+<Identifier>AigrefeuilleG1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>48</ID>
+<Identifier>Luna2</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>89</ID>
+<Identifier>SoderiniF1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Surround>cornucopiae</Surround>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+</Heraldry>
+<Heraldry>
+<ID>83</ID>
+<Identifier>LangM1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>50</ID>
+<Identifier>Malesset1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>12</ID>
+<Identifier>BoulogneG1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>40</ID>
+<Identifier>Gros1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>81</ID>
+<Identifier>CorsiniP1</Identifier>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+</Heraldry>
+<Heraldry>
+<ID>5</ID>
+<Identifier>Amboise1</Identifier>
+<Category>ecclesiastical and personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>16</ID>
+<Identifier>KempJ1</Identifier>
+<Category>ecclesiastical and personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>27</ID>
+<Identifier>Correr1</Identifier>
+<Category>ecclesiastical/personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>37</ID>
+<Identifier>GonzagaF1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>36</ID>
+<Identifier>GonzagaE1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Surround>decorative corbels</Surround>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>35</ID>
+<Identifier>Givry1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>44</ID>
+<Identifier>Lagier2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>43</ID>
+<Identifier>Lagier1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>42</ID>
+<Identifier>Jean1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>38</ID>
+<Identifier>Grange2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>28</ID>
+<Identifier>EpinayA1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>15</ID>
+<Identifier>CampeggioL1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>17</ID>
+<Identifier>CapranicaA1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>19</ID>
+<Identifier>Carvajal1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>20</ID>
+<Identifier>CarvajalB1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>21</ID>
+<Identifier>CastiglioneB1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>11</ID>
+<Identifier>Bessarion1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>31</ID>
+<Identifier>FieschiL1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>9</ID>
+<Identifier>BarL1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>34</ID>
+<Identifier>FonsecaP1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>29</ID>
+<Identifier>EstoutevilleG1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>53</ID>
+<Identifier>MediciG2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supports>structural</Supports>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>30</ID>
+<Identifier>EstoutevilleG2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>1</ID>
+<Identifier>Adimarius3</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>32</ID>
+<Identifier>FieschiN1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>33</ID>
+<Identifier>FoixP2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>24</ID>
+<Identifier>CiboI1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supports>profile heads</Supports>
+<Surround>profile head</Surround>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>68</ID>
+<Identifier>RovereG2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>2</ID>
+<Identifier>AigrefeuilleF1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>86</ID>
+<Identifier>PisaniF2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Surround>foliate</Surround>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>85</ID>
+<Identifier>Passerini1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supporters>male figures, half-length</Supporters>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+</Heraldry>
+<Heraldry>
+<ID>84</ID>
+<Identifier>MediciI1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>scrolled</Shield_x0020_type>
+<Supporters>angels/winged victories</Supporters>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>82</ID>
+<Identifier>Grange1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+</Heraldry>
+<Heraldry>
+<ID>80</ID>
+<Identifier>CarboniF2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>78</ID>
+<Identifier>Adimarius2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>77</ID>
+<Identifier>Zabarella2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>76</ID>
+<Identifier>Wolsey2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>75</ID>
+<Identifier>Wolsey1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>74</ID>
+<Identifier>Viterbo1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>scrolled</Shield_x0020_type>
+<Supports>structural</Supports>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>51</ID>
+<Identifier>Maramaldo1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>71</ID>
+<Identifier>Valle1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supporters>putti</Supporters>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>8</ID>
+<Identifier>BarboM2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>57</ID>
+<Identifier>OrsiniF1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supports>cornucopiae</Supports>
+<Surround>cornucopia</Surround>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>7</ID>
+<Identifier>BarboM1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>52</ID>
+<Identifier>MediciG1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>scrolled</Shield_x0020_type>
+<Supporters>angels/winged victories</Supporters>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>54</ID>
+<Identifier>MellaJ1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>67</ID>
+<Identifier>SalviatiG2</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supports>structural</Supports>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>58</ID>
+<Identifier>OrsiniG1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>59</ID>
+<Identifier>Panciera1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>60</ID>
+<Identifier>Petrucci1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supports>volutes</Supports>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>64</ID>
+<Identifier>PisaniF1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>66</ID>
+<Identifier>RovereG1</Identifier>
+<Category>personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supporters>putti</Supporters>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>6</ID>
+<Identifier>AragonJ1</Identifier>
+<Category>royal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>41</ID>
+<Identifier>Guillaume1</Identifier>
+<Category>royal and personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>10</ID>
+<Identifier>BarL2</Identifier>
+<Category>royal/personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>73</ID>
+<Identifier>Vich1</Identifier>
+<Category>royal/personal</Category>
+<Shield_x0020_type>scrolled</Shield_x0020_type>
+<Supporters>Roman soldiers</Supporters>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>69</ID>
+<Identifier>Sommariva1</Identifier>
+<Category>royal/personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>49</ID>
+<Identifier>LusignanH1</Identifier>
+<Category>royal/personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>4</ID>
+<Identifier>AlbretL1</Identifier>
+<Category>royal/personal</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>13</ID>
+<Identifier>Brunhiac1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supports>indistinct animals</Supports>
+<Supporters>lion</Supporters>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>14</ID>
+<Identifier>Calleville1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supporters>angel</Supporters>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>18</ID>
+<Identifier>CarafaO1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>unknown</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>22</ID>
+<Identifier>Challant1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>25</ID>
+<Identifier>ClermontF1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>unknown</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>26</ID>
+<Identifier>CoetivyA1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>47</ID>
+<Identifier>Lenzol-BorgiaR1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>91</ID>
+<Identifier>LongueilRO1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>56</ID>
+<Identifier>MontferratT1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supporters>angels</Supporters>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>61</ID>
+<Identifier>Pierre1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Supports>animals</Supports>
+<Supporters>indistinct animal and a lion</Supporters>
+<Achievement>cardinal&apos;s hat</Achievement>
+<Number>1</Number>
+</Heraldry>
+<Heraldry>
+<ID>87</ID>
+<Identifier>RiarioR2</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with looped cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>88</ID>
+<Identifier>RiarioR3</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>1</Number>
+<Insignia>cross-staff</Insignia>
+</Heraldry>
+<Heraldry>
+<ID>90</ID>
+<Identifier>BlauP1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+<Heraldry>
+<ID>46</ID>
+<Identifier>LeJeune1</Identifier>
+<Category>unknown</Category>
+<Shield_x0020_type>plain</Shield_x0020_type>
+<Achievement>cardinal&apos;s hat with straight cords</Achievement>
+<Number>2</Number>
+</Heraldry>
+</dataroot>

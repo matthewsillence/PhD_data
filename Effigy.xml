@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Effigy.xsd" generated="2019-05-23T09:31:22">
+<Effigy>
+<ID>1</ID>
+<Identifier>AigrefeuilleG1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-right</Direction>
+</Effigy>
+<Effigy>
+<ID>2</ID>
+<Identifier>Albergati1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, holding book</Arm_x0020_gesture>
+<Head_x0020_gesture>downwards</Head_x0020_gesture>
+<Attribute1>book</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>none</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>right</Direction>
+</Effigy>
+<Effigy>
+<ID>3</ID>
+<Identifier>Correr1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>left</Direction>
+</Effigy>
+<Effigy>
+<ID>4</ID>
+<Identifier>Adimarius3</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>crosier</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>5</ID>
+<Identifier>Adimarius2</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>6</ID>
+<Identifier>AigrefeuilleF1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>7</ID>
+<Identifier>AlbretL1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>8</ID>
+<Identifier>Amboise1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>none</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>9</ID>
+<Identifier>BarboM1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>10</ID>
+<Identifier>BarL1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>11</ID>
+<Identifier>BarL2</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>12</ID>
+<Identifier>Bessarion1</Identifier>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+</Effigy>
+<Effigy>
+<ID>13</ID>
+<Identifier>Borsano1</Identifier>
+<Stance>kneeling</Stance>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Direction>left</Direction>
+</Effigy>
+<Effigy>
+<ID>14</ID>
+<Identifier>BoulogneG1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>15</ID>
+<Identifier>Brunhiac1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>none</Head_x0020_covering>
+<Vestments>chasuble?</Vestments>
+<Direction>right</Direction>
+</Effigy>
+<Effigy>
+<ID>16</ID>
+<Identifier>Calleville1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>17</ID>
+<Identifier>CampeggioL2</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>18</ID>
+<Identifier>CapranicaA1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-right</Direction>
+</Effigy>
+<Effigy>
+<ID>19</ID>
+<Identifier>Carvajal1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>none</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>20</ID>
+<Identifier>CastiglioneB1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>left</Direction>
+</Effigy>
+<Effigy>
+<ID>21</ID>
+<Identifier>Challant1</Identifier>
+</Effigy>
+<Effigy>
+<ID>22</ID>
+<Identifier>Chanac1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>23</ID>
+<Identifier>ClermontF1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>indistinct</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>left</Direction>
+</Effigy>
+<Effigy>
+<ID>24</ID>
+<Identifier>CoetivyA1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>25</ID>
+<Identifier>EstoutevilleG2</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>26</ID>
+<Identifier>FieschiL1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>27</ID>
+<Identifier>FoixP2</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>28</ID>
+<Identifier>FonsecaP1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>29</ID>
+<Identifier>Grange1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+</Effigy>
+<Effigy>
+<ID>30</ID>
+<Identifier>Grange2</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>left</Direction>
+</Effigy>
+<Effigy>
+<ID>31</ID>
+<Identifier>Grimaldi1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>left</Direction>
+</Effigy>
+<Effigy>
+<ID>32</ID>
+<Identifier>Gros1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>33</ID>
+<Identifier>Guillaume1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>cross-staff</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>34</ID>
+<Identifier>Jean1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>35</ID>
+<Identifier>Lagier1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>left</Direction>
+</Effigy>
+<Effigy>
+<ID>36</ID>
+<Identifier>Lagier2</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-right</Direction>
+</Effigy>
+<Effigy>
+<ID>37</ID>
+<Identifier>LanghamS1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>38</ID>
+<Identifier>LeJeune1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>39</ID>
+<Identifier>Luna2</Identifier>
+<Stance>kneeling</Stance>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>40</ID>
+<Identifier>LusignanH1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>41</ID>
+<Identifier>Malesset1</Identifier>
+<Stance>kneeling</Stance>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Direction>right</Direction>
+</Effigy>
+<Effigy>
+<ID>42</ID>
+<Identifier>Maramaldo1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>43</ID>
+<Identifier>MellaJ1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>44</ID>
+<Identifier>Montalais1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>46</ID>
+<Identifier>OrsiniG1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>47</ID>
+<Identifier>Panciera1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>indistinct</Head_x0020_covering>
+<Vestments>hooded cloak</Vestments>
+<Direction>left</Direction>
+</Effigy>
+<Effigy>
+<ID>48</ID>
+<Identifier>Petrucci1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>none</Head_x0020_covering>
+<Vestments>hooded cloak</Vestments>
+<Direction>left</Direction>
+</Effigy>
+<Effigy>
+<ID>49</ID>
+<Identifier>Pierre2</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>50</ID>
+<Identifier>Puy1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>51</ID>
+<Identifier>Sommariva1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full face</Direction>
+</Effigy>
+<Effigy>
+<ID>52</ID>
+<Identifier>Sortenac1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-right</Direction>
+</Effigy>
+<Effigy>
+<ID>53</ID>
+<Identifier>Vergne1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>54</ID>
+<Identifier>Zabarella2</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>half-left</Direction>
+</Effigy>
+<Effigy>
+<ID>55</ID>
+<Identifier>KempJ1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held together</Arm_x0020_gesture>
+<Head_x0020_gesture>forwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>cardinal&apos;s hat</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full-face</Direction>
+</Effigy>
+<Effigy>
+<ID>56</ID>
+<Identifier>Pierre1</Identifier>
+<Stance>kneeling</Stance>
+<Arm_x0020_gesture>hands raised, held apart</Arm_x0020_gesture>
+<Head_x0020_gesture>upwards</Head_x0020_gesture>
+<Attribute1>none</Attribute1>
+<Attribute2>none</Attribute2>
+<Head_x0020_covering>mitre</Head_x0020_covering>
+<Vestments>chasuble</Vestments>
+<Direction>full-face</Direction>
+</Effigy>
+</dataroot>

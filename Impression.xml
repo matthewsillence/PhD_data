@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Impression.xsd" generated="2019-05-23T09:31:49">
+<Impression>
+<ID>27</ID>
+<Identifier>Albergati1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Position>Base of document</Position>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>uncoloured</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>green wax</Surround>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>complete</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>Instr. misc. 4184</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Covering>metal box</Covering>
+<Notes>&apos;Seal in red shellac on a support of white wax, in a tin box with cover, haning above with a cord of red silk, well conserved.&apos; (Sella, 144).</Notes>
+<MyImage>AlbergatiN1.jpg</MyImage>
+<Height>85</Height>
+<Width>55</Width>
+<Figure_x0020_number>33</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>42</ID>
+<Identifier>AragonJ1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>wax</Surround>
+<Condition_x003A__x0020_fineness>fair</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>damage to design and legend</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>Fondo Veneto I 5752</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Covering>metal box</Covering>
+<Notes>Oval seal, repaired.</Notes>
+<MyImage>AragonJ1.jpg</MyImage>
+<Height>100</Height>
+<Width>62</Width>
+<Figure_x0020_number>59</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>23</ID>
+<Identifier>Brunhiac1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Position>1</Position>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>uncoloured</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>wax</Surround>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>damage to design and legend</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>AA. Arm. E. 18</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Notes>&apos;Seal of red shellac on a support of white wax, hanging above with a cord of red silk, with some pieces missing from the margins.&apos; (Sella 140).  Resembles some early fifteenth-century portable alabasters, though this is clearly a French design.</Notes>
+<MyImage>BrunhiacJ1.jpg</MyImage>
+<Height>85</Height>
+<Width>50</Width>
+<Figure_x0020_number>25</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>21</ID>
+<Identifier>Calleville1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>uncoloured</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Condition_x003A__x0020_fineness>clear</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>damage to design and legend</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>AA. Arm. I-XVIII 3858</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Notes>&apos;Seal of red shellac on a support of white wax, hanging above from a cord of straw, very deteriorated.&apos; (Sella, 138).  Height and width given as 80 x 55 - check this!</Notes>
+<MyImage>CallevilleF1.jpg</MyImage>
+<Figure_x0020_number>23</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>53</ID>
+<Identifier>CampeggioL1</Identifier>
+<Location>National Archives, London</Location>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Condition_x003A__x0020_fineness>clear</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>fragment</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>E212/99</Document_x0020_reference>
+<Notes>Damaged but clearly repaired with some form of green/brown wax - details of the coat of arms partly obscured.  Recessed vaulting evident.</Notes>
+<MyImage>E 212.99 Lorenzo Campeggio.jpg</MyImage>
+<Height>89</Height>
+<Figure_x0020_number>86</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>115</ID>
+<Identifier>CarboniF1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Position>Base of document</Position>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>unknown</Surround>
+<Condition_x003A__x0020_fineness>clear</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>damage to design and legend</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>Fondo Certosini 4</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<MyImage>Fondo Certosini 4, Francesco Carboni.jpg</MyImage>
+<Width>55</Width>
+<Figure_x0020_number>16</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>28</ID>
+<Identifier>Correr1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Position>detached</Position>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>uncoloured</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>wax</Surround>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>complete</Condition_x003A__x0020_completeness>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Covering>metal box</Covering>
+<Notes>&apos;Seal in red shellac on a support of white wax, in a tin box, well conserved, still attached with a straw cord.&apos; (Sella, 145).  Sigilli staccati 52.</Notes>
+<MyImage>CorrerA1.jpg</MyImage>
+<Height>80</Height>
+<Width>55</Width>
+<Figure_x0020_number>36</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>46</ID>
+<Identifier>EnckevoirtG1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>unknown</Surround>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>damage to design and legend</Condition_x003A__x0020_completeness>
+<Counterseal>0</Counterseal>
+<Document_x0020_reference>Fondo Veneto I 12953</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Covering>tin box</Covering>
+<Notes>Size: 110 x 70?  &apos;Seal in red shellac, oval in tin box hanging with a cord of red straw.&apos; (Sella: Tav. II, n. 1284).</Notes>
+<MyImage>EnckevoirtG1.jpg</MyImage>
+<Figure_x0020_number>82</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>25</ID>
+<Identifier>FieschiL1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Position>3</Position>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>uncoloured</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>wax</Surround>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>complete</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>AA. Arm. E. 18</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Notes>&apos;Seal of red shellac on a support of white wax, hanging above with a cord of red silk, well conserved.&apos; (Sella, 142).</Notes>
+<MyImage>FieschiL1.jpg</MyImage>
+<Height>85</Height>
+<Width>55</Width>
+<Figure_x0020_number>15</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>43</ID>
+<Identifier>FieschiN1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Condition_x003A__x0020_fineness>fair</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>slight damage</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>Fondo Veneto I 1262</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Covering>metal box</Covering>
+<Notes>&apos;Seal in red sheallc, oval, in a tin box, hanging above with a cord of straw, deteriorated.  (Sella: Tav. II, n. 1282).</Notes>
+<MyImage>FieschiN1.jpg</MyImage>
+<Height>100</Height>
+<Width>60</Width>
+<Figure_x0020_number>69</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>12</ID>
+<Identifier>Lagier2</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>uncoloured</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>complete</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>AA. Arm. I-XVIII 2200</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Notes>&apos;Seal of red shellac on a support of white wax&apos; (Sella, 129).</Notes>
+<MyImage>LagierB2.jpg</MyImage>
+<Height>75</Height>
+<Width>47</Width>
+<Figure_x0020_number>10</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>22</ID>
+<Identifier>Maramaldo1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Position>Base of document</Position>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>wax</Surround>
+<Condition_x003A__x0020_fineness>clear</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>slight damage</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>AA. Arm. E. 15</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Notes>Size: 95 x 65?  &apos;Seal of red shellac on a support of white wax, hanging above from a cord of straw, broken and lacking the lower part.&apos; (Sella, 139).</Notes>
+<MyImage>MaramaldoL1.jpg</MyImage>
+<Height>95</Height>
+<Figure_x0020_number>13</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>38</ID>
+<Identifier>MediciG2</Identifier>
+<Location>Archivio di Stato, Rome</Location>
+<Position>detached</Position>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>uncoloured wax</Surround>
+<Condition_x003A__x0020_fineness>clear</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>damage to design and legend</Condition_x003A__x0020_completeness>
+<Covering>bag</Covering>
+<Notes>Seal listed in the Inventario dei Sigilli of the Archivio di Stato, Rome (no. 212).</Notes>
+<MyImage>MediciG3ASR.jpg</MyImage>
+<Height>121</Height>
+<Width>77</Width>
+<Figure_x0020_number>72</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>44</ID>
+<Identifier>OrsiniF1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>unknown</Surround>
+<Condition_x003A__x0020_fineness>unknown</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>unknown</Condition_x003A__x0020_completeness>
+<Counterseal>0</Counterseal>
+<Document_x0020_reference>Fondo Veneto I 12899</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Covering>metal box</Covering>
+<Notes>&apos;Seal in red shellac, oval in tin box, hanging from a yellow and red cord.&apos;  (Sella: Tav. II, n. 1283.  Shellac surface suffers from micro-fractures.</Notes>
+<MyImage>OrsiniF1.jpg</MyImage>
+<Height>110</Height>
+<Width>70</Width>
+<Figure_x0020_number>81</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>45</ID>
+<Identifier>PisaniF1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>unknown</Surround>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>damage to design and legend</Condition_x003A__x0020_completeness>
+<Counterseal>0</Counterseal>
+<Document_x0020_reference>Fondo Veneto I 5816</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Covering>metal box</Covering>
+<Notes>&apos;Seal in red shellac, oval in tin box hanging with a cord of red straw.&apos;  Seal has been repaired and consolidated.</Notes>
+<MyImage>PisaniF1.jpg</MyImage>
+<Height>110</Height>
+<Width>75</Width>
+<Figure_x0020_number>85</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>24</ID>
+<Identifier>Sommariva1</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Position>2</Position>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>uncoloured</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>wax</Surround>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>complete</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>AA. Arm. E. 18</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Notes>&apos;Seal of red shellac on a support of white wax, hanging above from a cord of red silk, with some pieces missing in the margins.&apos; (Sella, 141).</Notes>
+<MyImage>SommarivaA1.jpg</MyImage>
+<Height>85</Height>
+<Width>55</Width>
+<Figure_x0020_number>20</Figure_x0020_number>
+</Impression>
+<Impression>
+<ID>49</ID>
+<Identifier>Wolsey2</Identifier>
+<Location>Archivio Segreto Vaticano</Location>
+<Position>Upper left</Position>
+<Colour_x0020_1>red</Colour_x0020_1>
+<Colour_x0020_2>red</Colour_x0020_2>
+<Material>wax</Material>
+<Surface>unknown</Surface>
+<Surround>unknown</Surround>
+<Condition_x003A__x0020_fineness>fine</Condition_x003A__x0020_fineness>
+<Condition_x003A__x0020_completeness>complete</Condition_x003A__x0020_completeness>
+<Document_x0020_reference>AA. Arm. I-XVIII 4098a</Document_x0020_reference>
+<Means_x0020_of_x0020_attachment>on cord</Means_x0020_of_x0020_attachment>
+<Notes>&apos;Seal in red shellac, oval, well conserved.&apos;  Wolsey as co-author of the document has his seal placed first on the left, upper register of the base of the document.</Notes>
+<MyImage>Wolsey2.jpg</MyImage>
+<Height>110</Height>
+<Width>75</Width>
+<Figure_x0020_number>73</Figure_x0020_number>
+</Impression>
+</dataroot>

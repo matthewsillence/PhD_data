@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Titular%20church.xsd" generated="2019-05-23T09:32:44">
+<Titular_x0020_church>
+<Modern_x0020_title>Albano</Modern_x0020_title>
+<Type>suburbicarian diocese</Type>
+<Regio>0</Regio>
+<Area>Albano</Area>
+<Date>300-400</Date>
+<Dedication>S. Pancrazio</Dedication>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Frascati</Modern_x0020_title>
+<Type>suburbicarian diocese</Type>
+<Regio>0</Regio>
+<Area>Tusculum</Area>
+<Date>200-300</Date>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Ostia e Velletri</Modern_x0020_title>
+<Type>suburbicarian diocese</Type>
+<Regio>0</Regio>
+<Area>Ostia</Area>
+<Date>200-300</Date>
+<Notes>In 1150 Pope Eugenius III gave its bishop the deanship of the Sacred College of Cardinals and Velletri was united to Ostia at this time</Notes>
+<Dedication>Sta. Aurea</Dedication>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Palestrina</Modern_x0020_title>
+<Type>suburbicarian diocese</Type>
+<Regio>0</Regio>
+<Area>Palestrina</Area>
+<Date>300-400</Date>
+<Dedication>S. Agapito</Dedication>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Porto e Sta. Rufina</Modern_x0020_title>
+<Type>suburbicarian diocese</Type>
+<Regio>0</Regio>
+<Area>Cerveteri</Area>
+<Date>200-300/1119</Date>
+<Notes>Porto and Santa Rufina were united in 1119 under Pope Callistus II</Notes>
+<Dedication>Sta. Maria Maggiore</Dedication>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Adriano</Modern_x0020_title>
+<Original_x0020_title>Hadrianus</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>8</Regio>
+<Area>Forum Romanum</Area>
+<Date>650</Date>
+<Notes>Founded by Pope Honorius in the &apos;Curia Hostilia&apos; (Liber Pontificalis); featured in the catalogue of the 7th century</Notes>
+<Bibliography>Duchesne 1887, p. 238</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Angelo</Modern_x0020_title>
+<Original_x0020_title>Michaelis Archangelus</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>9</Regio>
+<Area>Circus Flaminius</Area>
+<Date>650</Date>
+<Notes>Could have featured in the catalogue of the 7th century under the name of the &apos;basilica sancti Michahelis archangeli&apos;; dedicatory inscription of 755 ou 770</Notes>
+<Bibliography>Duchesne 1887, p. 239</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Apollinare</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Bartolomeo all&apos;Isola</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Bonfacio</Modern_x0020_title>
+<Original_x0020_title>Bonifacius</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>13</Regio>
+<Area>Aventinus</Area>
+<Date>650</Date>
+<Notes>Mentioned in the catalogue of the 7th century</Notes>
+<Bibliography>Duchesne 1887, p. 239</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Callisto</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1456-1517</Date>
+<Notes>Title may have been established under Pope Callistus III (1455-1458) or, more probably, on 6 July 1517 by Pope Leo X</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Cesareo in Palatio</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Ciriaco</Modern_x0020_title>
+<Original_x0020_title>Cyriacus</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>6</Regio>
+<Area>Alta Semita</Area>
+<Date>499</Date>
+<Notes>Mentioned at the Councils of 499 and 595</Notes>
+<Bibliography>Duchesne 1887, p. 224</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Clemente</Modern_x0020_title>
+<Original_x0020_title>Clementis</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>3</Regio>
+<Area>Isis et Serapis</Area>
+<Date>366-384</Date>
+<Notes>Existed in the time of Pope Damasus</Notes>
+<Bibliography>Duchesne 1887, p. 221</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Crisogono</Modern_x0020_title>
+<Original_x0020_title>Chrysogonus</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>14</Regio>
+<Area>Trans Tiberim</Area>
+<Date>499</Date>
+<Notes>Mentioned at the Council of 499</Notes>
+<Bibliography>Duchesne 1887, p. 227</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Eudosio</Modern_x0020_title>
+<Original_x0020_title>Apostoli</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>3</Regio>
+<Area>Isis et Serapis</Area>
+<Date>431</Date>
+<Notes>Mentioned as &apos;titulus Apostolorum&apos; at the Coucnil of Ephesus in 431; also known as &apos;titulus a vinculis S. Petri&apos;</Notes>
+<Bibliography>Duchesne 1887, p. 222</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Eusebio</Modern_x0020_title>
+<Original_x0020_title>Eusebius</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>5</Regio>
+<Area>Esquiliae</Area>
+<Date>499</Date>
+<Notes>Mentioned at the Council of 499</Notes>
+<Bibliography>Duchesne 1887, p. 223</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Eustachio</Modern_x0020_title>
+<Original_x0020_title>Eustachius</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>9</Regio>
+<Area>Circus Flaminius</Area>
+<Date>unknown</Date>
+<Notes>Already existed in the time of Pope Gregory II</Notes>
+<Bibliography>Duchesne 1887, p. 239</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Giorgio in Velabro</Modern_x0020_title>
+<Original_x0020_title>Georgius</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>11</Regio>
+<Area>Circus Maximus</Area>
+<Date>650</Date>
+<Notes>Mentioned in the catalogue of the 7th century</Notes>
+<Bibliography>Duchesne 1887, p. 239</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Giovanni a Porta Latina</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Lorenzo in Damaso</Modern_x0020_title>
+<Original_x0020_title>Damasus</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>9</Regio>
+<Area>Circus Flaminius</Area>
+<Date>366</Date>
+<Notes>The church was rebuilt by Pope Damasus; Pope Clement VII (1523-1534) with the Bull &apos;Et si ad singula&apos; (July 5 1532) assigned this title in perpetuity to the vice-chancellor of the Holy Roman Church regardless of cardinalatial rank (deacone, priest, or &apos;commendatario&apos;)</Notes>
+<Bibliography>Duchesne 1887, p. 224-5</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Lorenzo in Lucina</Modern_x0020_title>
+<Original_x0020_title>Lucina</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>9</Regio>
+<Area>Circus Flaminius</Area>
+<Date>366</Date>
+<Notes>Pope Damasus was elected there in 366</Notes>
+<Bibliography>Duchesne 1887, p. 224</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Lorenzo in Panisperna</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Marcello</Modern_x0020_title>
+<Original_x0020_title>Marcellus</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>7</Regio>
+<Area>Via Lata</Area>
+<Date>308-309</Date>
+<Notes>Liber Pontificalis atributes the foundation to Pope Marcellus (308-9)</Notes>
+<Bibliography>Duchesne 1887, p. 224</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Marco</Modern_x0020_title>
+<Original_x0020_title>Marcus</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>9</Regio>
+<Area>Circus Flaminius</Area>
+<Date>336</Date>
+<Notes>Liber Pontificalis reports that it was founded by Pope Marcus (336)</Notes>
+<Bibliography>Duchesne 1887, p. 225</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Martino al Coeliomonte</Modern_x0020_title>
+<Regio>0</Regio>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Matteo in Merulana</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>112/1517</Date>
+<Notes>Title established c. 112 by Pope St Alexander I; suppressed by Pope St Gregory I the Great (590-604) in 600; restored by Pope Leo X (1513-1521) in July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Niccola fra le Immagini</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1477</Date>
+<Notes>Title established by Pope Sixtus IV (1471-1481)</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Nicola in Carcere</Modern_x0020_title>
+<Original_x0020_title>Nicholas</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>0</Regio>
+<Date>731</Date>
+<Notes>Deaconry established under Pope St Gregory III c. 731</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Onofrio</Modern_x0020_title>
+<Type>diaconate</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Pancrazio fuori le mura</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Pietro in Vincoli</Modern_x0020_title>
+<Original_x0020_title>Eudoxie</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>499</Date>
+<Notes>Title listed in the Council of 499</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Silvestro in Capite</Modern_x0020_title>
+<Original_x0020_title>Silvester</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Sisto</Modern_x0020_title>
+<Original_x0020_title>S. Xystus</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>1</Regio>
+<Area>Porta Capena</Area>
+<Date>595</Date>
+<Notes>Mentioned at the Council of 595</Notes>
+<Bibliography>Duchesne 1887, pp. 220-1</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Stefano al Monte Celio</Modern_x0020_title>
+<Original_x0020_title>Stephanus</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>2</Regio>
+<Area>Caeliomontem</Area>
+<Date>468-483</Date>
+<Notes>Founded under Pope Simplicius (468-483)</Notes>
+<Bibliography>Duchesne 1887, p. 234</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Teodoro</Modern_x0020_title>
+<Original_x0020_title>Theodorus</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>8</Regio>
+<Area>Forum Romanum</Area>
+<Date>600-700</Date>
+<Notes>Its mosaic cannot be earlier than the 7th century</Notes>
+<Bibliography>Duchesne 1887, p. 238</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Tommaso in Parione</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Vitale</Modern_x0020_title>
+<Original_x0020_title>Vestina</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>6</Regio>
+<Area>Alta Semita</Area>
+<Date>401-417</Date>
+<Notes>Liber Pontificalis records the foundation under Pope Innocent (401-417)</Notes>
+<Bibliography>Duchesne 1887, p. 223</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>S. Vito in Macello</Modern_x0020_title>
+<Original_x0020_title>Vitus</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>5</Regio>
+<Area>Esquiliae</Area>
+<Date>768-772</Date>
+<Notes>Mentioned as a monastery in the life of St Stephen (768-772) in the Liber Pontificalis</Notes>
+<Bibliography>Duchesne 1887, p. 238</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sabina</Modern_x0020_title>
+<Type>suburbicarian diocese</Type>
+<Regio>0</Regio>
+<Area>Rieti</Area>
+<Date>400-500</Date>
+<Dedication>Sta. Maria Assunta</Dedication>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>SS. Cosma e Damiano</Modern_x0020_title>
+<Original_x0020_title>Cosmus et Damianus</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>4</Regio>
+<Area>Templum Pacis</Area>
+<Date>526-530</Date>
+<Notes>Founded by Pope Felix IV (526-530) in using two ancient buidings; mentioned in the catalogue of 7th-century churches</Notes>
+<Bibliography>Duchesne 1887, p. 238</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>SS. Giovanni e Paolo</Modern_x0020_title>
+<Original_x0020_title>Byzanti</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>2</Regio>
+<Area>Celimontium</Area>
+<Date>401-417</Date>
+<Notes>Also known as &apos;titulus Pammachii&apos; (c. 499)</Notes>
+<Bibliography>Duchesne 1887, p. 221</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>SS. Marcellino e Pietro</Modern_x0020_title>
+<Original_x0020_title>SS. Marcellinus et Petrus</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>3</Regio>
+<Area>Isis et Serapis</Area>
+<Date>595</Date>
+<Notes>Mentioned at the Council of 595</Notes>
+<Bibliography>Duchesne 1887, p. 222</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>SS. Nereo ed Achilleo</Modern_x0020_title>
+<Original_x0020_title>Fasciola</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>12</Regio>
+<Area>Piscina Publica</Area>
+<Date>377</Date>
+<Notes>An earlier titulus (Cinnamius Opas) is recorded in 377; the priest Felix, who died in 471, was titular priest of Fasciola (noted in the Liber Pontificalis)</Notes>
+<Bibliography>Duchesne 1887, p. 225-6</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>SS. Quattro Coronati</Modern_x0020_title>
+<Original_x0020_title>Aemiliana</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>2</Regio>
+<Area>Celiomontium</Area>
+<Date>300-400</Date>
+<Notes>Mentioned in the Council of 499</Notes>
+<Bibliography>Duchesne 1887, p. 221</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>SS. Sergio e Baccho</Modern_x0020_title>
+<Original_x0020_title>Sergius et Bacchus</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>8</Regio>
+<Area>Forum Romanum</Area>
+<Date>unknown</Date>
+<Notes>unknown</Notes>
+<Bibliography>Duchesne 1887, p. 238</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>SS. Silvestro e Martino ai Monti</Modern_x0020_title>
+<Original_x0020_title>Equitius</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>3</Regio>
+<Area>Isis et Serapis</Area>
+<Date>499</Date>
+<Notes>Mentioned at the Council of 499</Notes>
+<Bibliography>Duchesne 1887, p. 222</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>SS. XII Apostoli</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>100-200</Date>
+<Notes>Named after the church of SS. Filippo e Giacomo (c. 112), erected by Pope St Evaristus; confirmed by Pope John III in 560 as SS. XII Apostoli</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Agata alla Suburra</Modern_x0020_title>
+<Original_x0020_title>Agatha</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>6</Regio>
+<Area>Alta Semita</Area>
+<Date>650</Date>
+<Notes>Mentioned as a monastery in the catalogue of the 7th century</Notes>
+<Bibliography>Duchesne 1887, p. 238</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Agata de&apos; Goti</Modern_x0020_title>
+<Original_x0020_title>Agatha</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>6</Regio>
+<Area>Alta Semita</Area>
+<Date>459-472</Date>
+<Notes>Arian church founded by Patrician Ricimer etween 459 and 472</Notes>
+<Bibliography>Duchesne 1887, p. 235</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Agnese in Agone</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Anastasia</Modern_x0020_title>
+<Original_x0020_title>Anastasia</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>11</Regio>
+<Area>Circus Maximus</Area>
+<Date>403</Date>
+<Notes>The church&apos;s baptistery was founded by Longinianus, Prefect of Rome, in 403</Notes>
+<Bibliography>Duchesne 1887, p. 225</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Balbina</Modern_x0020_title>
+<Original_x0020_title>Balbina</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>12</Regio>
+<Area>Piscina Publica</Area>
+<Date>500-600</Date>
+<Notes>Mentioned in an epitaph of a priest in the 6th century</Notes>
+<Bibliography>Duchesne 1887, p. 226</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Cecilia</Modern_x0020_title>
+<Original_x0020_title>Caecilia</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>14</Regio>
+<Area>Trans Tiberim</Area>
+<Date>300-400</Date>
+<Notes>Martyrology attests to a church in the 4th century</Notes>
+<Bibliography>Duchesne 1887, p. 227</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Croce in Gerusalemme</Modern_x0020_title>
+<Original_x0020_title>Helena</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>600</Date>
+<Notes>Established by Pope St Gregory I the Great (590-604) to replace that of S. Nicomede sur la Via Nomentana; dedication title still exists to Empress Helena</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Lucia in Septizonio</Modern_x0020_title>
+<Original_x0020_title>Lucia</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>10</Regio>
+<Area>Palatium</Area>
+<Date>unknown</Date>
+<Notes>unknown</Notes>
+<Bibliography>Duchesne 1887, p. 239</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Lucia in Silice</Modern_x0020_title>
+<Original_x0020_title>Lucia</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>3</Regio>
+<Area>Isis et Serapis</Area>
+<Date>unknown</Date>
+<Notes>Church founded by Pope Honorius, according to the Liber Pontificalis</Notes>
+<Bibliography>Duchesne 1887, p. 238</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Maria Antiqua</Modern_x0020_title>
+<Original_x0020_title>Maria</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>4</Regio>
+<Area>Templum Pacis</Area>
+<Date>650</Date>
+<Notes>Figures in the list of churches which appeared at the middle of the 7th century; embellished under Pope John (705-707), mentioned in the Liber Pontficalis</Notes>
+<Bibliography>Duchesne 1887, p. 238</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Maria in Aquiro</Modern_x0020_title>
+<Original_x0020_title>Maria</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>9</Regio>
+<Area>Circus Flaminius</Area>
+<Date>731-741</Date>
+<Notes>Already a diaconate before Pope Gregory III (731-741), who restored it</Notes>
+<Bibliography>Duchesne 1887, p. 239</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Maria in Ara Coeli</Modern_x0020_title>
+<Type>presbyterial</Type>
+<Regio>0</Regio>
+<Date>1517</Date>
+<Notes>Title established by Pope Leo X on 6 July 1517; suppressed by Pope Clement VII (1523-1534) on 17 April 1527</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Maria in Cosmedin</Modern_x0020_title>
+<Original_x0020_title>Maria</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>11</Regio>
+<Area>Circus Maximus</Area>
+<Date>unknown</Date>
+<Notes>unknown</Notes>
+<Bibliography>Duchesne 1887, p. 239</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Maria in Domnica</Modern_x0020_title>
+<Original_x0020_title>Maria</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>2</Regio>
+<Area>Celiomontium</Area>
+<Date>unknown</Date>
+<Notes>unknown</Notes>
+<Bibliography>Duchesne 1887, p. 237</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Maria in Portico</Modern_x0020_title>
+<Original_x0020_title>Maria</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>0</Regio>
+<Date>600</Date>
+<Notes>Deaconry established under Pope St Gregory I the Great (590-604)</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Maria in Trastevere</Modern_x0020_title>
+<Original_x0020_title>Iulius</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>14</Regio>
+<Area>Trans Tiberim</Area>
+<Date>337-352</Date>
+<Notes>Church founded by Pope Julius (337-352); mentioned as &apos;titulus Iulii et Callisti&apos; in 499 and 595</Notes>
+<Bibliography>Duchesne 1887, p. 226-7</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Maria in Via Lata</Modern_x0020_title>
+<Original_x0020_title>Maria</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>7</Regio>
+<Area>Via Lata</Area>
+<Date>unknown</Date>
+<Notes>unknown</Notes>
+<Bibliography>Duchesne 1887, p. 238</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Maria Nuova</Modern_x0020_title>
+<Original_x0020_title>Maria</Original_x0020_title>
+<Type>diaconate</Type>
+<Regio>0</Regio>
+<Date>600</Date>
+<Notes>Deaconry established under Pope St Gregory I the Great (590-604)</Notes>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Prassede</Modern_x0020_title>
+<Original_x0020_title>Praxedis</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>5</Regio>
+<Area>Esquiliae</Area>
+<Date>491</Date>
+<Notes>Mentioned in an epitaph of 491</Notes>
+<Bibliography>Duchesne 1887, p. 222-3</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Prisca</Modern_x0020_title>
+<Original_x0020_title>Prisca</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>13</Regio>
+<Area>Aventinus</Area>
+<Date>499</Date>
+<Notes>Among the tituli at the Council of 499</Notes>
+<Bibliography>Duchesne 1887, p. 226</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Pudenziana</Modern_x0020_title>
+<Original_x0020_title>Pudentis</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>5</Regio>
+<Area>Esquiliae</Area>
+<Date>384</Date>
+<Notes>Mentioned as &apos;de Pudentiana&apos; in an epitaph of 384</Notes>
+<Bibliography>Duchesne 1887, p. 223</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Sabina</Modern_x0020_title>
+<Original_x0020_title>Sabina</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>13</Regio>
+<Area>Aventinus</Area>
+<Date>422-432</Date>
+<Notes>The church was founded by Pope Celestine (422-432)</Notes>
+<Bibliography>Duchesne 1887, p. 226</Bibliography>
+</Titular_x0020_church>
+<Titular_x0020_church>
+<Modern_x0020_title>Sta. Susanna</Modern_x0020_title>
+<Original_x0020_title>Gaius</Original_x0020_title>
+<Type>presbyterial</Type>
+<Regio>6</Regio>
+<Area>Alta Semita</Area>
+<Date>499</Date>
+<Notes>Mentioned as &apos;Gai&apos; at the Council of 499 and &apos;Susannae&apos; at the Council of 595</Notes>
+<Bibliography>Duchesne 1887, pp. 223-4</Bibliography>
+</Titular_x0020_church>
+</dataroot>
